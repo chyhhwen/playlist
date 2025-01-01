@@ -16,13 +16,13 @@ body
     .search
     {
         width: 100vw;
-        height:5vh;
+        height:10vh;
         background: aqua;
         & input[type='text']
         {
             width:100%;
             height:100%;
-            font-size: 120%;
+            font-size: 180%;
         }
     }
 }
