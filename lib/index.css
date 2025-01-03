@@ -16,7 +16,6 @@ body
     {
         width: 99vw;
         height:5vh;
-        margin-top: 1vh;
         & input[type='text']
         {
             width:100%;
@@ -33,7 +32,6 @@ body
         display: flex;
         align-items: center;
         font-weight: bold;
-        margin-bottom: 4vh;
     }
     #list
     {
@@ -43,7 +41,7 @@ body
         .table
         {
             width:100%;
-            height:9%;
+            height:10%;
             background: blanchedalmond;
             font-size: 300%;
             font-weight: bold;
