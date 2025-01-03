@@ -54,6 +54,241 @@
       "id": 11,
       "song_id": 68158,
       "sing_name": "天下"
+    },
+    {
+      "id": 12,
+      "song_id": 59091,
+      "sing_name": "家家酒"
+    },
+    {
+      "id": 13,
+      "song_id": 32129,
+      "sing_name": "夜夜夜夜"
+    },
+    {
+      "id": 14,
+      "song_id": 58355,
+      "sing_name": "以後別做朋友"
+    },
+    {
+      "id": 15,
+      "song_id": 58903,
+      "sing_name": "你好不好"
+    },
+    {
+      "id": 16,
+      "song_id": 58493,
+      "sing_name": "手心的薔薇"
+    },
+    {
+      "id": 17,
+      "song_id": 57238,
+      "sing_name": "她說"
+    },
+    {
+      "id": 18,
+      "song_id": 13571,
+      "sing_name": "江南"
+    },
+    {
+      "id": 19,
+      "song_id": 56592,
+      "sing_name": "小酒窩"
+    },
+    {
+      "id": 20,
+      "song_id": 57861,
+      "sing_name": "修練愛情"
+    },
+    {
+      "id": 21,
+      "song_id": 34964,
+      "sing_name": "西海情歌"
+    },
+    {
+      "id": 22,
+      "song_id": 56575,
+      "sing_name": "行棋"
+    },
+    {
+      "id": 23,
+      "song_id": 90139,
+      "sing_name": "刻字"
+    },
+    {
+      "id": 24,
+      "song_id": 56098,
+      "sing_name": "前途"
+    },
+    {
+      "id": 25,
+      "song_id": 90274,
+      "sing_name": "送行"
+    },
+    {
+      "id": 26,
+      "song_id": 90716,
+      "sing_name": "我問天"
+    },
+    {
+      "id": 27,
+      "song_id": 56108,
+      "sing_name": "迷魂香"
+    },
+    {
+      "id": 28,
+      "song_id": 58230,
+      "sing_name": "真心淚"
+    },
+    {
+      "id": 29,
+      "song_id": 94032,
+      "sing_name": "愛一回傷一回"
+    },
+    {
+      "id": 30,
+      "song_id": 57370,
+      "sing_name": "愛你無鷺無命"
+    },
+    {
+      "id": 31,
+      "song_id": 56443,
+      "sing_name": "癡情有啥意義"
+    },
+    {
+      "id": 32,
+      "song_id": 58576,
+      "sing_name": "男人"
+    },
+    {
+      "id": 33,
+      "song_id": 58703,
+      "sing_name": "八兩金"
+    },
+    {
+      "id": 34,
+      "song_id": 58613,
+      "sing_name": "問蒼天"
+    },
+    {
+      "id": 35,
+      "song_id": 20664,
+      "sing_name": "雲中日"
+    },
+    {
+      "id": 36,
+      "song_id": 12208,
+      "sing_name": "小河之歌"
+    },
+    {
+      "id": 37,
+      "song_id": 20245,
+      "sing_name": "一條手巾仔"
+    },
+    {
+      "id": 38,
+      "song_id": 20601,
+      "sing_name": "舊情也綿綿"
+    },
+    {
+      "id": 39,
+      "song_id": 21311,
+      "sing_name": "雨綿綿情綿綿"
+    },
+    {
+      "id": 40,
+      "song_id": 57260,
+      "sing_name": "末班車"
+    },
+    {
+      "id": 41,
+      "song_id": 56206,
+      "sing_name": "阿嬤的話"
+    },
+    {
+      "id": 42,
+      "song_id": 21421,
+      "sing_name": "好歹擺是命"
+    },
+    {
+      "id": 43,
+      "song_id": 56556,
+      "sing_name": "獨家記憶"
+    },
+    {
+      "id": 44,
+      "song_id": 12830,
+      "sing_name": "神啊救救我"
+    },
+    {
+      "id": 45,
+      "song_id": 13334,
+      "sing_name": "十年"
+    },
+    {
+      "id": 46,
+      "song_id": 20181,
+      "sing_name": "月圓思情"
+    },
+    {
+      "id": 47,
+      "song_id": 21392,
+      "sing_name": "秋雨彼一眠"
+    },
+    {
+      "id": 48,
+      "song_id": 20210,
+      "sing_name": "港都夜雨"
+    },
+    {
+      "id": 49,
+      "song_id": 20203,
+      "sing_name": "香港戀情"
+    },
+    {
+      "id": 50,
+      "song_id": 23117,
+      "sing_name": "情深深"
+    },
+    {
+      "id": 51,
+      "song_id": 59190,
+      "sing_name": "風鈴聲"
+    },
+    {
+      "id": 52,
+      "song_id": 23222,
+      "sing_name": "雲中月圓"
+    },
+    {
+      "id": 53,
+      "song_id": 22524,
+      "sing_name": "男人情女人心"
+    },
+    {
+      "id": 54,
+      "song_id": 57217,
+      "sing_name": "今生只為你"
+    },
+    {
+      "id": 55,
+      "song_id": 23279,
+      "sing_name": "夢中的情話"
+    },
+    {
+      "id": 56,
+      "song_id": 58489,
+      "sing_name": "山頂的春天"
+    },
+    {
+      "id": 57,
+      "song_id": 22487,
+      "sing_name": "海波浪"
+    },
+    {
+      "id": 58,
+      "song_id": 20535,
+      "sing_name": "傷心酒店"
     }
   ]
 }
