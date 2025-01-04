@@ -554,6 +554,86 @@
       "id": 111,
       "song_id": 57169,
       "sing_name": "選擇你"
+    },
+    {
+      "id": 112,
+      "song_id": 59230,
+      "sing_name": "床頭夢"
+    },
+    {
+      "id": 113,
+      "song_id": 92929,
+      "sing_name": "美麗的錯誤"
+    },
+    {
+      "id": 114,
+      "song_id": 50102,
+      "sing_name": "容易受傷的女人"
+    },
+    {
+      "id": 115,
+      "song_id": 34964,
+      "sing_name": "西海情歌"
+    },
+    {
+      "id": 116,
+      "song_id": 13548,
+      "sing_name": "黃昏"
+    },
+    {
+      "id": 117,
+      "song_id": 56508,
+      "sing_name": "隱形的翅膀"
+    },
+    {
+      "id": 118,
+      "song_id": 13266,
+      "sing_name": "雨蝶"
+    },
+    {
+      "id": 119,
+      "song_id": 58128,
+      "sing_name": "真愛"
+    },
+    {
+      "id": 120,
+      "song_id": 58600,
+      "sing_name": "小幸運"
+    },
+    {
+      "id": 121,
+      "song_id": 57343,
+      "sing_name": "重逢雨"
+    },
+    {
+      "id": 122,
+      "song_id": 56043,
+      "sing_name": "青花瓷"
+    },
+    {
+      "id": 123,
+      "song_id": 57938,
+      "sing_name": "今生的諾言"
+    },
+    {
+      "id": 124,
+      "song_id": 23673,
+      "sing_name": "花香"
+    },
+    {
+      "id": 125,
+      "song_id": 42152,
+      "sing_name": "回航"
+    },
+    {
+      "id": 126,
+      "song_id": 58026,
+      "sing_name": "今生我的愛"
+    },
+    {
+      "id": 120,
+      "song_id": 58600,
+      "sing_name": "小幸運"
     }
   ]
 }
