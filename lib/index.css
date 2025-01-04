@@ -20,15 +20,15 @@ body
         {
             width:100%;
             height:100%;
-            font-size: 250%;
+            font-size: 260%;
         }
     }
     #temp
     {
         width: 100vw;
-        height:5vh;
+        height:7vh;
         background: aqua;
-        font-size: 250%;
+        font-size: 300%;
         display: flex;
         align-items: center;
         font-weight: bold;
