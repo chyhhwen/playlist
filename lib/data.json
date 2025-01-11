@@ -631,9 +631,269 @@
       "sing_name": "今生我的愛"
     },
     {
-      "id": 120,
-      "song_id": 58600,
-      "sing_name": "小幸運"
+      "id": 127,
+      "song_id": 23116,
+      "sing_name": "酒後吐真言"
+    },
+    {
+      "id": 128,
+      "song_id": 21216,
+      "sing_name": "一生只愛你一回"
+    },
+    {
+      "id": 129,
+      "song_id": 21388,
+      "sing_name": "你我相逢"
+    },
+    {
+      "id": 130,
+      "song_id": 57201,
+      "sing_name": "情人淚"
+    },
+    {
+      "id": 131,
+      "song_id": 58373,
+      "sing_name": "感謝你愛過我"
+    },
+    {
+      "id": 132,
+      "song_id": 59038,
+      "sing_name": "為你貼心肝"
+    },
+    {
+      "id": 133,
+      "song_id": 56322,
+      "sing_name": "代替"
+    },
+    {
+      "id": 134,
+      "song_id": 10716,
+      "sing_name": "如果"
+    },
+    {
+      "id": 135,
+      "song_id": 57713,
+      "sing_name": "情深緣淺"
+    },
+    {
+      "id": 136,
+      "song_id": 23134,
+      "sing_name": "一段情一場夢"
+    },
+    {
+      "id": 137,
+      "song_id": 11411,
+      "sing_name": "問"
+    },
+    {
+      "id": 138,
+      "song_id": 56015,
+      "sing_name": "愛你一千一萬年"
+    },
+    {
+      "id": 139,
+      "song_id": 23098,
+      "sing_name": "愛妳千年萬年"
+    },
+    {
+      "id": 140,
+      "song_id": 10169,
+      "sing_name": "動不動就說愛我"
+    },
+    {
+      "id": 141,
+      "song_id": 58514,
+      "sing_name": "當你老了"
+    },
+    {
+      "id": 142,
+      "song_id": 12455,
+      "sing_name": "獨角處"
+    },
+    {
+      "id": 143,
+      "song_id": 56780,
+      "sing_name": "聽說愛情回來過"
+    },
+    {
+      "id": 144,
+      "song_id": 78125,
+      "sing_name": "擁抱"
+    },
+    {
+      "id": 145,
+      "song_id": 37778,
+      "sing_name": "我會等"
+    },
+    {
+      "id": 146,
+      "song_id": 59667,
+      "sing_name": "流浪連"
+    },
+    {
+      "id": 147,
+      "song_id": 59462,
+      "sing_name": "浪子回頭"
+    },
+    {
+      "id": 148,
+      "song_id": 79544,
+      "sing_name": "閣愛你一擺"
+    },
+    {
+      "id": 149,
+      "song_id": 59686,
+      "sing_name": "你我之間"
+    },
+    {
+      "id": 150,
+      "song_id": 26691,
+      "sing_name": "情深似海"
+    },
+    {
+      "id": 151,
+      "song_id": 26792,
+      "sing_name": "千年萬年"
+    },
+    {
+      "id": 152,
+      "song_id": 59806,
+      "sing_name": "今生今世的愛"
+    },
+    {
+      "id": 153,
+      "song_id": 28312,
+      "sing_name": "望鄉思情"
+    },
+    {
+      "id": 154,
+      "song_id": 79204,
+      "sing_name": "別知己"
+    },
+    {
+      "id": 155,
+      "song_id": 79680,
+      "sing_name": "如果愛還在"
+    },
+    {
+      "id": 156,
+      "song_id": 23819,
+      "sing_name": "紅顏知己"
+    },
+    {
+      "id": 157,
+      "song_id": 96309,
+      "sing_name": "海風吹"
+    },
+    {
+      "id": 158,
+      "song_id": 96743,
+      "sing_name": "海浪情"
+    },
+    {
+      "id": 159,
+      "song_id": 96148,
+      "sing_name": "琉球夢"
+    },
+    {
+      "id": 160,
+      "song_id": 96080,
+      "sing_name": "空等愛"
+    },
+    {
+      "id": 161,
+      "song_id": 97854,
+      "sing_name": "空嘴嚼舌"
+    },
+    {
+      "id": 162,
+      "song_id": 96213,
+      "sing_name": "朋友保重"
+    },
+    {
+      "id": 163,
+      "song_id": 58480,
+      "sing_name": "當我想你的時候"
+    },
+    {
+      "id": 164,
+      "song_id": 79516,
+      "sing_name": "嘉賓"
+    },
+    {
+      "id": 165,
+      "song_id": 59770,
+      "sing_name": "怎麼了"
+    },
+    {
+      "id": 166,
+      "song_id": 79184,
+      "sing_name": "刻在我心底裡的名字"
+    },
+    {
+      "id": 167,
+      "song_id": 94893,
+      "sing_name": "勇氣"
+    },
+    {
+      "id": 168,
+      "song_id": 79887,
+      "sing_name": "尪某緣"
+    },
+    {
+      "id": 169,
+      "song_id": "08230",
+      "sing_name": "真心淚"
+    },
+    {
+      "id": 170,
+      "song_id": 95997,
+      "sing_name": "成功"
+    },
+    {
+      "id": 171,
+      "song_id": 79684,
+      "sing_name": "男人的性命"
+    },
+    {
+      "id": 172,
+      "song_id": 59451,
+      "sing_name": "愛你若生命"
+    },
+    {
+      "id": 173,
+      "song_id": 57404,
+      "sing_name": "男人酒女人淚"
+    },
+    {
+      "id": 174,
+      "song_id": 26716,
+      "sing_name": "紅酒"
+    },
+    {
+      "id": 175,
+      "song_id": 16240,
+      "sing_name": "冷冷的心上人"
+    },
+    {
+      "id": 176,
+      "song_id": 59941,
+      "sing_name": "候鳥"
+    },
+    {
+      "id": 177,
+      "song_id": 78123,
+      "sing_name": "夢中海"
+    },
+    {
+      "id": 178,
+      "song_id": 79580,
+      "sing_name": "尪仔某"
+    },
+    {
+      "id": 179,
+      "song_id": 79446,
+      "sing_name": "一線亭"
     }
   ]
 }
