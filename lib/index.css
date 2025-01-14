@@ -32,6 +32,7 @@ body
         display: flex;
         align-items: center;
         font-weight: bold;
+        padding-left: 50px;
     }
     #list
     {
@@ -48,6 +49,7 @@ body
             display: flex;
             align-items: center;
             border:1px solid rgb(202,201,201);
+            padding-left: 50px;
         }
     }
     .choose
