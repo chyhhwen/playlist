@@ -1049,6 +1049,431 @@
       "id": 210,
       "song_id": 46897,
       "sing_name": "問相思"
+    },
+    {
+      "id": 211,
+      "song_id": 79397,
+      "sing_name": "北海道之戀"
+    },
+    {
+      "id": 212,
+      "song_id": 79197,
+      "sing_name": "一磚一瓦"
+    },
+    {
+      "id": 213,
+      "song_id": 79654,
+      "sing_name": "千戀醉萬年"
+    },
+    {
+      "id": 214,
+      "song_id": 79623,
+      "sing_name": "愛情回來過"
+    },
+    {
+      "id": 215,
+      "song_id": 79757,
+      "sing_name": "共度一生"
+    },
+    {
+      "id": 216,
+      "song_id": 79767,
+      "sing_name": "雪花淚"
+    },
+    {
+      "id": 217,
+      "song_id": 79781,
+      "sing_name": "自古多情"
+    },
+    {
+      "id": 218,
+      "song_id": 79814,
+      "sing_name": "將心交換"
+    },
+    {
+      "id": 219,
+      "song_id": 79873,
+      "sing_name": "緣分比紙薄"
+    },
+    {
+      "id": 220,
+      "song_id": 79586,
+      "sing_name": "真心不換"
+    },
+    {
+      "id": 221,
+      "song_id": 79361,
+      "sing_name": "歲月的腳步"
+    },
+    {
+      "id": 222,
+      "song_id": 79293,
+      "sing_name": "愛的伴侶"
+    },
+    {
+      "id": 223,
+      "song_id": 79381,
+      "sing_name": "雨夜想思淚"
+    },
+    {
+      "id": 224,
+      "song_id": 79462,
+      "sing_name": "將你攬心肝"
+    },
+    {
+      "id": 225,
+      "song_id": 79815,
+      "sing_name": "望你來"
+    },
+    {
+      "id": 226,
+      "song_id": 79699,
+      "sing_name": "夢猶原你一個"
+    },
+    {
+      "id": 227,
+      "song_id": 79009,
+      "sing_name": "同款的月娘"
+    },
+    {
+      "id": 228,
+      "song_id": 79219,
+      "sing_name": "鴛鴦蝴蝶夢"
+    },
+    {
+      "id": 229,
+      "song_id": 78049,
+      "sing_name": "夢千年"
+    },
+    {
+      "id": 230,
+      "song_id": 26492,
+      "sing_name": "蝴蝶夢"
+    },
+    {
+      "id": 231,
+      "song_id": 79238,
+      "sing_name": "愛你萬萬年"
+    },
+    {
+      "id": 232,
+      "song_id": 79169,
+      "sing_name": "霧中情"
+    },
+    {
+      "id": 233,
+      "song_id": 59692,
+      "sing_name": "風風雨雨作陣行"
+    },
+    {
+      "id": 234,
+      "song_id": 59903,
+      "sing_name": "甘願"
+    },
+    {
+      "id": 235,
+      "song_id": 79175,
+      "sing_name": "天涯總有相逢時"
+    },
+    {
+      "id": 236,
+      "song_id": 59855,
+      "sing_name": "多情蝴蝶"
+    },
+    {
+      "id": 237,
+      "song_id": 15020,
+      "sing_name": "絕口不提愛你"
+    },
+    {
+      "id": 238,
+      "song_id": 59304,
+      "sing_name": "如果雨之後"
+    },
+    {
+      "id": 239,
+      "song_id": 33713,
+      "sing_name": "一生一世的愛"
+    },
+    {
+      "id": 240,
+      "song_id": 56258,
+      "sing_name": "紅顏"
+    },
+    {
+      "id": 241,
+      "song_id": 56257,
+      "sing_name": "男人的汗"
+    },
+    {
+      "id": 242,
+      "song_id": 23260,
+      "sing_name": "多情光"
+    },
+    {
+      "id": 243,
+      "song_id": 56959,
+      "sing_name": "沒那麼簡單"
+    },
+    {
+      "id": 244,
+      "song_id": 37638,
+      "sing_name": "從前說"
+    },
+    {
+      "id": 245,
+      "song_id": 79201,
+      "sing_name": "可可托海的牧羊人"
+    },
+    {
+      "id": 246,
+      "song_id": 36080,
+      "sing_name": "沒有你的陪伴真的好孤單"
+    },
+    {
+      "id": 247,
+      "song_id": 37661,
+      "sing_name": "美麗的神話"
+    },
+    {
+      "id": 248,
+      "song_id": 79255,
+      "sing_name": "你莫走"
+    },
+    {
+      "id": 249,
+      "song_id": 79629,
+      "sing_name": "不過人間"
+    },
+    {
+      "id": 250,
+      "song_id": 37457,
+      "sing_name": "站著等你三千年"
+    },
+    {
+      "id": 251,
+      "song_id": 79680,
+      "sing_name": "如果愛還在"
+    },
+    {
+      "id": 252,
+      "song_id": 37825,
+      "sing_name": "你的萬水千山"
+    },
+    {
+      "id": 253,
+      "song_id": 10166,
+      "sing_name": "一場遊戲一場夢"
+    },
+    {
+      "id": 254,
+      "song_id": 10761,
+      "sing_name": "為了愛夢一生"
+    },
+    {
+      "id": 255,
+      "song_id": 10620,
+      "sing_name": "忘了你忘了我"
+    },
+    {
+      "id": 256,
+      "song_id": 22456,
+      "sing_name": "腳踏車"
+    },
+    {
+      "id": 257,
+      "song_id": 84118,
+      "sing_name": "祝你一路順風"
+    },
+    {
+      "id": 258,
+      "song_id": 11501,
+      "sing_name": "每次都想呼喚你的名字"
+    },
+    {
+      "id": 259,
+      "song_id": 11535,
+      "sing_name": "遲來的愛"
+    },
+    {
+      "id": 260,
+      "song_id": 20301,
+      "sing_name": "今夜又閣塊落雨"
+    },
+    {
+      "id": 261,
+      "song_id": 94457,
+      "sing_name": "心愛的總一天你會了解"
+    },
+    {
+      "id": 262,
+      "song_id": 23187,
+      "sing_name": "心碎"
+    },
+    {
+      "id": 263,
+      "song_id": 20469,
+      "sing_name": "碼頭酒"
+    },
+    {
+      "id": 264,
+      "song_id": 20474,
+      "sing_name": "戀戀戀"
+    },
+    {
+      "id": 265,
+      "song_id": 23267,
+      "sing_name": "心內的話"
+    },
+    {
+      "id": 266,
+      "song_id": 20549,
+      "sing_name": "心愛的淚"
+    },
+    {
+      "id": 267,
+      "song_id": 93654,
+      "sing_name": "頭毛嘴鬍白"
+    },
+    {
+      "id": 268,
+      "song_id": 59590,
+      "sing_name": "另是有一天"
+    },
+    {
+      "id": 269,
+      "song_id": 12367,
+      "sing_name": "我終於失去了你"
+    },
+    {
+      "id": 270,
+      "song_id": 12386,
+      "sing_name": "愛要怎麼說出口"
+    },
+    {
+      "id": 271,
+      "song_id": 56505,
+      "sing_name": "男人KTV"
+    },
+    {
+      "id": 272,
+      "song_id": 56537,
+      "sing_name": "撕夜"
+    },
+    {
+      "id": 273,
+      "song_id": 68121,
+      "sing_name": "你一定要幸福"
+    },
+    {
+      "id": 274,
+      "song_id": 36856,
+      "sing_name": "下輩子"
+    },
+    {
+      "id": 275,
+      "song_id": 81368,
+      "sing_name": "一生只有你"
+    },
+    {
+      "id": 276,
+      "song_id": 81370,
+      "sing_name": "疼你若生命"
+    },
+    {
+      "id": 277,
+      "song_id": 84713,
+      "sing_name": "今生最愛的人"
+    },
+    {
+      "id": 278,
+      "song_id": 82839,
+      "sing_name": "癡情乎人心痛"
+    },
+    {
+      "id": 279,
+      "song_id": 59038,
+      "sing_name": "為你貼心肝"
+    },
+    {
+      "id": 280,
+      "song_id": 57238,
+      "sing_name": "她說"
+    },
+    {
+      "id": 281,
+      "song_id": 13573,
+      "sing_name": "老鼠愛大米"
+    },
+    {
+      "id": 282,
+      "song_id": 56192,
+      "sing_name": "為你寫詩"
+    },
+    {
+      "id": 283,
+      "song_id": 59769,
+      "sing_name": "往後餘生"
+    },
+    {
+      "id": 284,
+      "song_id": 37695,
+      "sing_name": "只是太愛你"
+    },
+    {
+      "id": 285,
+      "song_id": 79730,
+      "sing_name": "必巡"
+    },
+    {
+      "id": 286,
+      "song_id": 59590,
+      "sing_name": "若是有一天"
+    },
+    {
+      "id": 287,
+      "song_id": 78019,
+      "sing_name": "假使你知影"
+    },
+    {
+      "id": 288,
+      "song_id": 99521,
+      "sing_name": "將你來疼惜"
+    },
+    {
+      "id": 289,
+      "song_id": 32367,
+      "sing_name": "專屬天使"
+    },
+    {
+      "id": 290,
+      "song_id": 56825,
+      "sing_name": "全世界都停電"
+    },
+    {
+      "id": 291,
+      "song_id": 86637,
+      "sing_name": "非你莫屬"
+    },
+    {
+      "id": 292,
+      "song_id": 59984,
+      "sing_name": "你的情歌"
+    },
+    {
+      "id": 293,
+      "song_id": 95351,
+      "sing_name": "作陣彼一暝"
+    },
+    {
+      "id": 294,
+      "song_id": 57436,
+      "sing_name": "心頭肉"
+    },
+    {
+      "id": 295,
+      "song_id": 58835,
+      "sing_name": "男人傷"
     }
   ]
 }
