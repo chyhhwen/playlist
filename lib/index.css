@@ -79,6 +79,8 @@ body
         z-index: 10;
         width: 30%;
         height: 100%;
+        background-color: transparent;
+        border-style: none;
     }
     #next
     {
@@ -88,6 +90,8 @@ body
         z-index: 10;
         width: 30%;
         height: 100%;
+        background-color: transparent;
+        border-style: none;
     }
 }
 
