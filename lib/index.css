@@ -18,7 +18,7 @@ body
         height:5%;
         & input[type='text']
         {
-            width:99.5%;
+            width:95%;
             height:100%;
             font-size: 300%;
         }
